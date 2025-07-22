@@ -6,6 +6,16 @@
     "binding": "ASSETS",
     "directory": "dist/public"
   },
+  "routes": [
+    {
+      "pattern": "xdd.icu",
+      "custom_domain": true
+    },
+    {
+      "pattern": "sink.xddcloud.net",
+      "custom_domain": true
+    }
+  ],
   "compatibility_date": "2025-05-08",
   "compatibility_flags": [
     "nodejs_compat"
